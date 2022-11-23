@@ -1,0 +1,13 @@
+.main-nav {
+    padding-left: 41px;
+    height: 62px;
+    background-color: var(--ct-color-bg-secondary);
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-logo-text h4 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+  }
